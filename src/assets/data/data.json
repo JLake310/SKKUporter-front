@@ -1,0 +1,206 @@
+{
+    "Lectures": [
+        {
+            "id": "33508",
+            "name": "논리회로",
+            "classNum": "ICE2001_42",
+            "prof": "박형원",
+            "thingsToDo": {
+                "lecture": [
+                    {
+                        "title": "UNIT12 - Registers and Counters (Part I) 1",
+                        "dueDate": "2022-11-24T14:59:59Z"
+                    },
+                    {
+                        "title": "UNIT12 - Registers and Counters (Part I) 2",
+                        "dueDate": "2022-11-24T14:59:59Z"
+                    },
+                    {
+                        "title": "UNIT12 - Registers and Counters (Part I) 3",
+                        "dueDate": "2022-11-24T14:59:59Z"
+                    },
+                    {
+                        "title": "UNIT12 - Registers and Counters (Part II) 1",
+                        "dueDate": "2022-12-01T14:59:59Z"
+                    },
+                    {
+                        "title": "UNIT12 - Registers and Counters (Part II) 2",
+                        "dueDate": "2022-12-01T14:59:59Z"
+                    },
+                    {
+                        "title": "UNIT12 - Registers and Counters (Part II) 3",
+                        "dueDate": "2022-12-01T14:59:59Z"
+                    },
+                    {
+                        "title": "UNIT12 - Registers and Counters (Part II) 4",
+                        "dueDate": "2022-12-01T14:59:59Z"
+                    },
+                    {
+                        "title": "UNIT12 - Registers and Counters (Part III) 1",
+                        "dueDate": "2022-12-01T14:59:59Z"
+                    },
+                    {
+                        "title": "UNIT12 - Registers and Counters (Part III) 2",
+                        "dueDate": "2022-12-01T14:59:59Z"
+                    }
+                ],
+                "assignment": []
+            }
+        },
+        {
+            "id": "35261",
+            "name": "성균논어",
+            "classNum": "GEDC010_43",
+            "prof": "김미라",
+            "thingsToDo": {
+                "lecture": [
+                    {
+                        "title": "13강 조화로움과 질서-8장",
+                        "dueDate": "2022-11-22T00:00:59Z"
+                    }
+                ],
+                "assignment": []
+            }
+        },
+        {
+            "id": "32086",
+            "name": "안전교육",
+            "classNum": "SFE7222_I1",
+            "prof": "육기봉",
+            "thingsToDo": {
+                "lecture": [],
+                "assignment": []
+            }
+        },
+        {
+            "id": "32687",
+            "name": "컴퓨터개론",
+            "classNum": "SWE2020_41",
+            "prof": "우홍욱",
+            "thingsToDo": {
+                "lecture": [
+                    {
+                        "title": "Data Structure",
+                        "dueDate": "2022-11-21T14:59:59Z"
+                    },
+                    {
+                        "title": "Data Structure",
+                        "dueDate": "2022-11-21T14:59:59Z"
+                    }
+                ],
+                "assignment": [
+                    {
+                        "title": "Essay 과제",
+                        "dueDate": "2022-11-26T14:59:59Z"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "33998",
+            "name": "컴퓨터그래픽스개론",
+            "classNum": "SWE3008_41",
+            "prof": "이성길",
+            "thingsToDo": {
+                "lecture": [
+                    {
+                        "title": "Advanced Texturing (English)",
+                        "dueDate": "2022-11-20T14:59:59Z"
+                    },
+                    {
+                        "title": "Ray Tracing (English)",
+                        "dueDate": "2022-11-20T14:59:59Z"
+                    },
+                    {
+                        "title": "Acceleration Structures (English)",
+                        "dueDate": "2022-11-27T14:59:59Z"
+                    },
+                    {
+                        "title": "Metaverse Part I",
+                        "dueDate": "2022-12-04T14:59:59Z"
+                    },
+                    {
+                        "title": "Metaverse Part II",
+                        "dueDate": "2022-12-04T14:59:59Z"
+                    }
+                ],
+                "assignment": [
+                    {
+                        "title": "A4. Solar System",
+                        "dueDate": "2022-11-21T14:59:59Z"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "34854",
+            "name": "Database Project",
+            "classNum": "SWE3033_41",
+            "prof": "이상원",
+            "thingsToDo": {
+                "lecture": [
+                    {
+                        "title": "Week 12. Transaction Management in SQLite",
+                        "dueDate": "2022-11-20T14:59:59Z"
+                    },
+                    {
+                        "title": "Week12. Transaction Management in SQlite",
+                        "dueDate": "2022-11-20T14:59:59Z"
+                    },
+                    {
+                        "title": "week12.lab",
+                        "dueDate": "2022-11-20T14:59:59Z"
+                    }
+                ],
+                "assignment": [
+                    {
+                        "title": "Week 12 Report Submission",
+                        "dueDate": "2022-11-20T14:59:59Z"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "32429",
+            "name": "HCI개론",
+            "classNum": "SWE3053_41",
+            "prof": "조재민",
+            "thingsToDo": {
+                "lecture": [
+                    {
+                        "title": "11 - Hypothesis Testing",
+                        "dueDate": "2022-11-23T14:59:59Z"
+                    },
+                    {
+                        "title": "11 - Hypothesis Testing (no annotation)",
+                        "dueDate": "2022-11-20T14:59:59Z"
+                    },
+                    {
+                        "title": "Lab 10 - Med-Fi prototyping",
+                        "dueDate": "2022-11-20T14:59:59Z"
+                    }
+                ],
+                "assignment": []
+            }
+        },
+        {
+            "id": "32225",
+            "name": "Introduction to Software Engineering",
+            "classNum": "SWE3002_42",
+            "prof": "차수영",
+            "thingsToDo": {
+                "lecture": [
+                    {
+                        "title": "SWE3002_Lecture10_Automatic Program Repair (1)",
+                        "dueDate": "2022-11-20T14:59:59Z"
+                    },
+                    {
+                        "title": "SWE3002_Lecture10_Automatic Program Repair (2)",
+                        "dueDate": "2022-11-20T14:59:59Z"
+                    }
+                ],
+                "assignment": []
+            }
+        }
+    ]
+}
