@@ -227,7 +227,7 @@ const MainScreen = (props: Props) => {
 };
 
 const Header = styled(SafeAreaView)`
-    height: 115px;
+    height: 70px;
     background-color: ${palette.BASIC};
     display: flex;
     flex-direction: row;
